@@ -1,0 +1,10 @@
+{
+  "name": "@codexporer.io/expo-switch",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "peerDependencies": {
+    "react": "*",
+    "react-native-paper": "*",
+    "toggle-switch-react-native": "*"
+  }
+}
